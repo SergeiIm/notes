@@ -11,3 +11,4 @@ class ConstantsText(Text):
         self.config(wrap='word')
         self.config(spacing3=10)
         self.config(width=30)
+        self.config(relief='flat')
